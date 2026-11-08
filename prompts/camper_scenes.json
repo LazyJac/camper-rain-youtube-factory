@@ -1,0 +1,218 @@
+{
+  "base_frame_path": "assets/master_camper_locked_matte_4k.png",
+  "base_camper_matte_path": "assets/episodes/02_masurian_lakes_dusk/_camper_locked_matte_4k.png",
+  "legacy_reference_path": "assets/master_camper_v1.jpg",
+  "camper_lock_rules": {
+    "reference_matte_path": "assets/master_camper_locked_matte_4k.png",
+    "episode_source_path": "assets/episodes/02_masurian_lakes_dusk/_camper_locked_matte_4k.png",
+    "identity_locked_elements": [
+      "Sosnowe deski boazerii (ciepły odcień naturalnego drewna miodowego)",
+      "Girlanda lampek LED fairy lights (ciepłe światło 2000K amber) wzdłuż sufitu i ścian",
+      "Puszysty ciemnoszary wełniany koc i poduszki na materacu w dolnej części",
+      "Półka z naturalnego drewna po lewej stronie z parującym ceramicznym kubkiem i zamkniętą książką w twardej oprawie",
+      "Uniesiona tylna klapa bagażnika z metalowymi siłownikami gazowymi i kroplami deszczu spływającymi z rantu"
+    ],
+    "perspective_freedom_rules": "Wygląd i wyposażenie kampera są bezwzględnie stałe we wszystkich przyszłych generacjach (Asset / Character Lock). Lokalizację kamery, perspektywę i kąt widzenia MOŻEMY zmieniać w zależności od potrzeb sceny (np. kadr z głębi wnętrza, zbliżenie na kubek i deszcz za szybą, ujęcie pod kątem na pejzaż za otwartą klapą, kadr z boku)."
+  },
+  "base_image_prompt": "16:9 widescreen aspect ratio. First-person POV sitting on a cozy mattress inside the back of a converted wooden camper van, looking straight out through the wide-open rear tailgate trunk door. Around all 4 edges of the frame we see the exact wooden camper van interior: at the bottom edge is a comfortable mattress with dark grey rumpled blanket and pillows; on the left edge is a warm pine wood paneled camper wall with a small wooden shelf holding a book and a ceramic mug of hot chocolate with delicate warm white steam rising from it, and warm amber fairy string lights glowing softly; on the right edge is the matching pine wood wall and fairy lights; at the top edge is the lifted open rear hatch door with gas struts and water droplets hanging from the wet metal rim. No people, no animals, cinematic photorealistic 8k.",
+  "locations": [
+    {
+      "id": "01_pacific_cliff_storm",
+      "name": "Spokojne Leśne Jezioro o Zmierzchu (Peaceful Rainy Forest Lake at Twilight)",
+      "scene_prompt": "A photorealistic cinematic image keeping the exact wooden camper van interior POV, parked safely on a flat, lush green mossy lakeside clearing in a peaceful pine forest during a gentle, soothing evening rain at warm twilight (soft golden-blue dusk glow in the sky). Calm lake water with delicate concentric raindrop ripples and warm golden light from the camper spilling onto wet green ferns and smooth pebbles right behind the bumper.",
+      "motion_prompt": "Locked-off static camera POV inside the cozy wooden camper van. Gentle, soothing evening rain falling steadily outside the open rear door, creating soft expanding concentric raindrop ripples across the calm forest lake. Warm 2000K fairy string lights gently shimmering with a natural living candlelight warmth on the pine wood walls. Barely visible, ultra-slow wisp of warm vapor drifting very slowly from the ceramic mug.",
+      "yt_title_sleep": "(NO ADS) Cozy Camper Van by a Calm Rainy Forest Lake - Gentle Rain Sounds on Roof for Deep Sleep",
+      "yt_title_chill": "Cozy Camper Van by a Rainy Forest Lake at Dusk - Warm Ambient Lo-Fi & Gentle Rain for Study & Relax",
+      "primary_keyword": "rain on camper roof",
+      "secondary_keywords": [
+        "camper van rain sounds for sleeping",
+        "heavy rain on tin roof no ads",
+        "cozy camper van ambience",
+        "rain and thunder ocean cliff",
+        "van life rain sounds sleep",
+        "sleeping in camper van during storm",
+        "dark screen rain sounds",
+        "asmr rain on car roof"
+      ]
+    },
+    {
+      "id": "02_masurian_lakes_dusk",
+      "name": "Polskie Mazury o Zmierzchu - Drewniany Pomost i Trzciny w Deszczu (Masurian Lake District at Dusk)",
+      "scene_prompt": "Photorealistic 8k cinematic wide POV shot from inside the back of our cozy custom pine-wood camper van looking out through the wide-open rear tailgate at a tranquil lake in the Polish Masurian Lake District (Mazury) in soft twilight right after sunset during a calm, gentle evening rain. Inside the camper: warm 2000K amber fairy string lights glowing softly along the pine ceiling and walls, a plush dark charcoal wool blanket on the mattress in the foreground, and on the left wooden shelf a ceramic mug of hot tea with a delicate wisp of steam beside a closed hardcover book. Outside the open tailgate: authentic Polish Masuria landscape with tall green-gold lakeside reeds (Phragmites australis) and broad cattails (Typha latifolia) along the grassy bank, white water lilies (Nymphaea alba) floating near the shore, a weathered rustic wooden jetty pier built on raw round alder piles extending into the calm mirror-like lake water, a classic white-and-mahogany Polish Omega sailboat moored quietly alongside the pier with folded mainsail on the boom and Lazy Jack rigging lines, and a low horizon of European alder (Alnus glutinosa), silver birch (Betula pendula), and Scots pine (Pinus sylvestris) forests across the water. The sky holds a peaceful post-sunset afterglow with soft warm amber-peach tones near the tree line blending into serene twilight indigo blue, reflecting on the water covered in delicate concentric raindrop ripples. Shot on RED V-Raptor 8K VV with Zeiss Master Prime 21mm lens stopped down to f/14. Deep focus pan-focus cinematography, hyperfocal distance locked at 2.5 meters, infinite depth of field from 1.0 meter to infinity. Zero bokeh, zero background blur, crisp edge contrast on every distant reed and pine needle, tack-sharp background horizon, natural micro-contrast, realistic fine film texture, 16:9 widescreen.",
+      "motion_prompt": "Locked-off tripod camera POV from inside the cozy wooden camper van looking out at the Masurian lake at twilight. Very slow, calm, peaceful motion: gentle evening raindrops falling steadily onto the lake surface, creating soft expanding concentric ripples around the wooden pier and lakeside reeds. Outside, the classic white and mahogany sailboat sways with an ultra-subtle micro-rocking motion in the calm water, with its lazy jack lines hanging taut. A subtle, slow laminar wisp of warm steam drifts upward from the ceramic mug on the wooden shelf inside the camper while the 2000K fairy lights glow warmly on the pine walls. Water droplets periodically detach and drip straight down from the rim of the lifted rear camper hatch. Zero camera movement, zero sudden flashes, deeply soothing ambience, 16:9.",
+      "yt_title_sleep": "(NO ADS) Cozy Camper Van by a Calm Rainy Lake at Dusk - Gentle Rain on Roof & Wooden Pier for Sleep",
+      "yt_title_chill": "Cozy Camper Van at Twilight by a Quiet Lake - Warm Piano Ambient & Gentle Evening Rain for Relax",
+      "primary_keyword": "rain on camper roof",
+      "secondary_keywords": [
+        "camper van rain sounds for sleeping",
+        "gentle rain on lake at dusk",
+        "cozy camper van ambience",
+        "rain sounds wooden pier lake",
+        "van life rain sounds sleep",
+        "sleeping in camper van during rain",
+        "ambient piano and rain sounds",
+        "asmr rain on car roof"
+      ]
+    },
+    {
+      "id": "03_tatra_chocholowska_shelter",
+      "name": "Tatry - Dolina Chochołowska i Zabytkowy Szałas Pasterski w Deszczu (Tatra Mountains Glade in Rain)",
+      "scene_prompt": "16:9 widescreen POV from inside cozy wooden camper van looking out at Dolina Chocholowska in the Polish Tatra Mountains during a steady mountain rain at dusk. In the mountain glade outside the open tailgate: historic weathered wooden shepherd hut with mossy shingles, wet alpine meadow, spruce trees shrouded in low rolling fog, and towering limestone peaks veiled in dark rainclouds. Warm 2000K camper interior lights contrasting with cool alpine mist.",
+      "motion_prompt": "Locked-off static camera POV. Steady alpine rain falling over the Chocholowska valley outside open tailgate, fog rolling slowly between spruce trees, drops dripping from lifted camper hatch, slow steam rising from hot mug on shelf, warm fairy lights glowing.",
+      "yt_title_sleep": "(NO ADS) Heavy Rain on Camper Roof in Mountain Valley - Alpine Rain Sounds for Sleeping & Insomnia",
+      "yt_title_chill": "Misty Mountain Rain & Warm Piano - Cozy Camper Van in the Tatra Valley for Deep Focus & Study",
+      "primary_keyword": "mountain rain sounds for sleeping",
+      "secondary_keywords": [
+        "rain on camper roof",
+        "heavy rain in mountain valley",
+        "tatra mountains rain ambience",
+        "cozy cabin mountain rain",
+        "dark screen sleep rain"
+      ]
+    },
+    {
+      "id": "04_bieszczady_solina_twilight",
+      "name": "Bieszczady o Zmierzchu - Jezioro Solińskie i Połonina Wetlińska w Deszczu (Bieszczady Lake Twilight)",
+      "scene_prompt": "16:9 widescreen POV from inside camper van parked on a wooded peninsula overlooking Lake Solina in the Bieszczady mountains at dusk during calm rain. Outside: calm dark lake reflecting soft indigo and twilight glow, forested slopes of European beech trees, distant rolling mountain ridges fading in mist, concentric rain ripples on the water surface.",
+      "motion_prompt": "Locked camera POV inside camper van. Gentle evening rain drumming on lake water surface, faint concentric ripples expanding across dark water, low mist drifting across forested hills, steady warm glow from fairy lights inside camper.",
+      "yt_title_sleep": "(NO ADS) Rain on Camper Van Roof by a Wild Lake - Cozy Rain Sounds for Deep Sleep (Dark Screen)",
+      "yt_title_chill": "Peaceful Lake Rain & Gentle Ambient Piano - Cozy Van Life Relaxation for Reading & Stress Relief",
+      "primary_keyword": "lake rain sounds for sleeping",
+      "secondary_keywords": [
+        "rain on camper roof lake",
+        "bieszczady rain ambience",
+        "cozy camper van rain sounds",
+        "gentle rain on water surface",
+        "calm lake rain sleep"
+      ]
+    },
+    {
+      "id": "05_baltic_hel_dunes",
+      "name": "Bałtycki Bór Wydmowy - Półwysep Helski i Zatoka Pucka w Ulewie (Baltic Sea Dunes & Pine Forest)",
+      "scene_prompt": "16:9 widescreen POV from inside wooden camper van parked among coastal Scots pine trees behind sand dunes on the Hel Peninsula overlooking Puck Bay during a steady sea rainstorm. Wet white sand, sea marram grass swaying gently, calm bay water with rainfall ripples, grey-blue coastal sky.",
+      "motion_prompt": "Steady coastal rain falling on sandy path and pine trees outside open rear tailgate, raindrops dripping from lifted hatch, water ripples on calm bay, slow wisps of steam from ceramic mug inside warm camper cabin.",
+      "yt_title_sleep": "(NO ADS) Heavy Rain on Camper Roof by the Sea - Coastal Rain Sounds for Sleeping & Insomnia Relief",
+      "yt_title_chill": "Rainy Coastal Evening & Warm Ambient Music - Cozy Camper Van on the Beach for Study & Relax",
+      "primary_keyword": "rain on camper roof ocean",
+      "secondary_keywords": [
+        "coastal rain sounds for sleeping",
+        "baltic sea rain ambience",
+        "rain on van roof beach",
+        "gentle coastal rain dark screen",
+        "sleeping in camper during rainstorm"
+      ]
+    },
+    {
+      "id": "06_bialowieza_ancient_oak",
+      "name": "Puszcza Białowieska - Prastary Dębowy Grąd i Ols w Mżawce (Bialowieza Primeval Forest)",
+      "scene_prompt": "16:9 widescreen POV from inside camper van parked in a clearing of the primeval Bialowieza Forest during a misty morning drizzle. Huge moss-covered pedunculate oak trees (Quercus robur), hornbeams, lush ferns, fallen decaying nurse logs with velvety moss, soft emerald light filtering through canopy.",
+      "motion_prompt": "Soft misty drizzle falling through the ancient forest canopy outside open tailgate, water beads dripping from fern fronds and lifted camper hatch, very gentle steam rising from tea mug, motionless locked camera.",
+      "yt_title_sleep": "(NO ADS) Rain on Camper Van in Ancient Forest - Gentle Rain Sounds for Sleep & Stress Relief",
+      "yt_title_chill": "Cozy Van in Primeval Forest - Warm Ambient Piano & Soft Rain Sounds for Reading & Deep Focus",
+      "primary_keyword": "forest rain sounds for sleeping",
+      "secondary_keywords": [
+        "rain in ancient forest",
+        "rain on camper roof in woods",
+        "primeval forest rain ambience",
+        "gentle woods rain sleep",
+        "dark screen forest rain no ads"
+      ]
+    },
+    {
+      "id": "07_norwegian_fjord_waterfall",
+      "name": "Norweskie Fiordy - Nærøyfjord i Kaskadowy Wodospad w Mgle (Norwegian Fjord & Waterfall)",
+      "scene_prompt": "16:9 widescreen POV from inside camper van parked on rocky fjord edge overlooking Naeroyfjord in Norway during heavy summer rain. Massive vertical granite cliffs plunging into turquoise-grey fjord water, a majestic cascading waterfall crashing down the rocks into the water, low clouds hugging the cliffs.",
+      "motion_prompt": "Heavy rain pouring over the fjord landscape outside open camper door, distant cascading waterfall continuously flowing down rock face, raindrops dripping from tailgate, warm fairy lights glowing steadily inside.",
+      "yt_title_sleep": "(NO ADS) Rain on Camper Roof by a Norwegian Fjord - Waterfall & Rain Sounds for Deep Sleep",
+      "yt_title_chill": "Nordic Fjord Rain & Calm Piano Melodies - Cozy Camper Van Ambience for Relaxing & Coding",
+      "primary_keyword": "norwegian fjord rain sounds for sleeping",
+      "secondary_keywords": [
+        "rain on camper roof fjord",
+        "norway rain and waterfall sleep",
+        "scandinavian rain ambience",
+        "cozy camper van rainstorm",
+        "dark screen fjord rain"
+      ]
+    },
+    {
+      "id": "08_scottish_highlands_loch",
+      "name": "Szkockie Highlands - Isle of Skye i Wrzosowiska w Ulewie (Scottish Highlands Moorland Rain)",
+      "scene_prompt": "16:9 widescreen POV from inside cozy camper van parked beside a historic mossy stone arch bridge in the Scottish Highlands on the Isle of Skye during an atmospheric rainstorm. Purple and brown heather moorlands, dark moody hills shrouded in driving rain and mist, small rushing peaty stream.",
+      "motion_prompt": "Driving Scottish rain sweeping across heather moorland outside open rear hatch, water streaming down stone bridge, heavy drops falling from lifted hatch rim, comforting warm steam from hot chocolate mug inside pine interior.",
+      "yt_title_sleep": "(NO ADS) Heavy Rain on Camper Van Roof in Scottish Highlands - Rainstorm Sounds for Sleeping",
+      "yt_title_chill": "Scottish Highlands Rain & Cozy Lo-Fi Piano - Camper Van Ambience for Reading & Relaxation",
+      "primary_keyword": "scottish highlands rain sounds for sleeping",
+      "secondary_keywords": [
+        "heavy rain on camper roof",
+        "isle of skye rain ambience",
+        "rainstorm on tin roof sleep",
+        "cozy van rain in the hills",
+        "dark screen rain and wind"
+      ]
+    },
+    {
+      "id": "09_japanese_cedar_onsen",
+      "name": "Japonia - Gaj Cedrowy w Kioto i Gorący Onsen w Deszczu (Kyoto Cedar Forest & Onsen)",
+      "scene_prompt": "16:9 widescreen POV from inside camper van overlooking a serene traditional Japanese hot spring onsen in Kyoto cedar forest during gentle rain. Steaming hot natural rock pool, moss-covered stone lantern (Toro) with warm candle glow, tall Japanese cedar trees (Cryptomeria japonica), bamboo water spout gently trickling.",
+      "motion_prompt": "Calm rain falling into steaming outdoor onsen pool, soft vapor rising from thermal water and from hot tea mug on camper shelf, rain droplets splashing quietly on mossy stone lantern, static camera POV.",
+      "yt_title_sleep": "(NO ADS) Rain on Camper Roof in Japanese Cedar Forest - Soothing Rain Sounds for Deep Sleep",
+      "yt_title_chill": "Zen Forest Rain & Peaceful Piano - Cozy Camper Van Overlooking Kyoto Garden for Study & Focus",
+      "primary_keyword": "japanese garden rain sounds for sleep",
+      "secondary_keywords": [
+        "rain sounds for sleeping japanese garden",
+        "rain on camper roof zen",
+        "japan rain ambience dark screen",
+        "kyoto cedar forest rain",
+        "calm rain and steam relax"
+      ]
+    },
+    {
+      "id": "10_swiss_alps_lauterbrunnen",
+      "name": "Szwajcarskie Alpy - Dolina Lauterbrunnen i Wodospad Staubbach (Swiss Alpine Valley)",
+      "scene_prompt": "16:9 widescreen POV from inside camper van parked in Lauterbrunnen valley in the Swiss Alps during evening rain. Traditional wooden chalets with flower boxes and shingle roofs, emerald green alpine meadows, towering vertical cliff face with the iconic Staubbach waterfall drifting in rain mist.",
+      "motion_prompt": "Alpine evening rain falling steadily over green valley and wooden chalets, misty waterfall drifting down distant cliff, raindrops dripping from lifted rear camper door, steady warm amber glow from fairy lights inside camper.",
+      "yt_title_sleep": "(NO ADS) Rain on Camper Roof in Swiss Alps Valley - Cozy Rain & Distant Thunder for Deep Sleep",
+      "yt_title_chill": "Alpine Valley Rain & Warm Ambient Music - Cozy Camper Van in Switzerland for Study & Peace",
+      "primary_keyword": "swiss alps rain sounds",
+      "secondary_keywords": [
+        "rain on camper van roof alps",
+        "lauterbrunnen rain ambience",
+        "alpine rain sounds for sleeping",
+        "cozy cabin valley rain",
+        "mountain rain dark screen sleep"
+      ]
+    },
+    {
+      "id": "11_california_redwood_rain",
+      "name": "USA - Redwood National Park w Północnej Kalifornii (Northern California Giant Redwoods)",
+      "scene_prompt": "16:9 widescreen POV from inside camper van parked under colossal ancient coast redwood trees (Sequoia sempervirens) in Northern California during heavy rain. Massive red-brown tree trunks, lush carpet of western sword ferns glistening with raindrops, low ocean fog weaving through the canopy.",
+      "motion_prompt": "Heavy Pacific rain pouring through giant redwood canopy, water droplets splashing off broad fern leaves outside open rear hatch, water dripping steadily from hatch rim, soft curl of steam from ceramic mug, locked camera POV.",
+      "yt_title_sleep": "(NO ADS) Heavy Rain on Camper Roof in Giant Redwood Forest - Deep Sleep Rain Sounds (No Ads)",
+      "yt_title_chill": "Pacific Northwest Rain & Cozy Piano - Warm Camper Van in Redwood Forest for Deep Focus & Relax",
+      "primary_keyword": "rain on camper roof in woods",
+      "secondary_keywords": [
+        "redwood forest rain sounds for sleep",
+        "pacific northwest rain ambience",
+        "camping in heavy rain redwood",
+        "rain on tin roof dark screen",
+        "insomnia relief heavy rain van"
+      ]
+    },
+    {
+      "id": "12_new_zealand_milford_sound",
+      "name": "Nowa Zelandia - Fiordland i Milford Sound w Deszczu (Milford Sound Fjordland Rain)",
+      "scene_prompt": "16:9 widescreen POV from inside camper van parked on shore of Milford Sound in New Zealand during heavy fjord rain. Mitre Peak shrouded in dramatic moving cloud layers, dark mirror fjord water with thousands of raindrops, steep rainforest covered cliffs with dozens of temporary silver waterfalls flowing.",
+      "motion_prompt": "Continuous heavy rain drumming on fjord water surface, temporary waterfalls streaming down dark mountain cliffs in distance, raindrops dripping from open tailgate hatch, warm fairy lights glowing inside cozy van cabin.",
+      "yt_title_sleep": "(NO ADS) Rain on Camper Roof by Milford Sound - Ocean Fjord Rain Sounds for Deep Sleep & Relaxation",
+      "yt_title_chill": "New Zealand Fjord Rain & Peaceful Piano Ambient - Cozy Van Life Ambience for Work & Study",
+      "primary_keyword": "milford sound rain sounds",
+      "secondary_keywords": [
+        "rain on camper van roof ocean",
+        "fiordland rain sounds for sleeping",
+        "new zealand rain ambience",
+        "cozy camper rain dark screen",
+        "relaxing rain on car roof sleep"
+      ]
+    }
+  ]
+}

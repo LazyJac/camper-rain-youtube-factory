@@ -1,0 +1,64 @@
+# System & OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+*.swp
+*~
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary or downloaded scratch folders
+2.0001/
+
+# Output directories (heavy rendered 4K videos, shorts, previews)
+output/
+
+# Heavy video & intermediate media files everywhere
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.raw
+*.ts
+
+# Temporary or intermediate audio renders (keep assets/audio_beds/*.mp3)
+*.m4a
+*.wav
+
+# Secrets, tokens and credentials (strict policy)
+*.env
+*.env.*
+*.secret
+*.token
+*.key
+credentials.json
+client_secrets*.json
