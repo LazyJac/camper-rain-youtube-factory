@@ -39,7 +39,7 @@ Zautomatyzowany potok produkcyjny do generowania fotorealistycznych, długich fi
 
 ## Stan commit / push / wdrożenie
 - Pliki zapisane lokalnie w `/Users/nowy/Documents/Projekty AI/Deszcz youtube/output/02_masurian_lakes_dusk/`.
-- **Repozytorium Git**: Przygotowano plik [.gitignore](file:///Users/nowy/Documents/Projekty%20AI/Deszcz%20youtube/.gitignore) ignorujący `output/`, wszystkie pliki `*.mp4`, surowe wideo oraz pliki tymczasowe. Zainicjalizowano lokalny Git (`git init`). Zgodnie z propozycją użytkownika, w każdej chwili możemy założyć prywatne repozytorium na GitHubie (`gh repo create`) dla samego kodu, skryptów, promptów i dokumentacji.
+- **Repozytorium GitHub (Prywatne)**: Założono prywatne repozytorium `LazyJac/camper-rain-youtube-factory` (`https://github.com/LazyJac/camper-rain-youtube-factory`). Kod, prompty, skrypty, konfiguracje, bazy audio i zablokowane referencje 4K zostały wypchnięte na gałąź `main`. Plik [.gitignore](file:///Users/nowy/Documents/Projekty%20AI/Deszcz%20youtube/.gitignore) w pełni chroni repozytorium przed zapychaniem przez ciężkie rendery (`output/`) i surowe pliki wideo (`*.mp4`).
 - Zgodnie z regułą Human-in-the-Loop, żaden film nie został jeszcze wysłany na YouTube - oczekuje na poprawki wizualne i akceptację użytkownika.
 
 ## Zdiagnozowane poprawki do wykonania (zapisane w `TODO.md`)
